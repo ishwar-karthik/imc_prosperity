@@ -3,11 +3,11 @@ Algebros 4000's algorithms during IMC's Prosperity trading competition between 8
 Final place: ? of ~10,000 teams (Position not released yet, last position released was 553rd of 10,007 teams)
 
 ## Team Members:
-Ishwar Kalyan Karthik - LinkedIn: https://www.linkedin.com/in/ishwar-karthik-3b62a9253/
-Mountain Cheng - LinkedIn: https://www.linkedin.com/in/mountain-cheng/
-Henry Roskill - LinkedIn: https://www.linkedin.com/in/henry-roskill-317a65249/
-Edward Liu - LinkedIn: https://www.linkedin.com/in/ed-l-917896255/
-Jessica Pulford - LinkedIn: https://www.linkedin.com/in/jessica-pulford-49a2b220b/
+- Ishwar Kalyan Karthik - LinkedIn: https://www.linkedin.com/in/ishwar-karthik-3b62a9253/
+- Mountain Cheng - LinkedIn: https://www.linkedin.com/in/mountain-cheng/
+- Henry Roskill - LinkedIn: https://www.linkedin.com/in/henry-roskill-317a65249/
+- Edward Liu - LinkedIn: https://www.linkedin.com/in/ed-l-917896255/
+- Jessica Pulford - LinkedIn: https://www.linkedin.com/in/jessica-pulford-49a2b220b/
 
 ## Final overall strategy (algorithmic trading)
 In the "active_algo.py" file. 
