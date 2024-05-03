@@ -1,5 +1,6 @@
 # IMC Prosperity Trading Challenge 2024
 Algebros 4000's algorithms during IMC's Prosperity trading competition between 8 and 25 April 2024. 
+
 Final place: 576th of 10,010 teams
 
 ## Team Members:
