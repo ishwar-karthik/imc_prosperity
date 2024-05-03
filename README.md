@@ -1,6 +1,6 @@
 # IMC Prosperity Trading Challenge 2024
 Algebros 4000's algorithms during IMC's Prosperity trading competition between 8 and 25 April 2024. 
-Final place: ? of ~10,000 teams (Position not released yet, last position released was 553rd of 10,007 teams)
+Final place: 576th of 10,010 teams
 
 ## Team Members:
 - Ishwar Kalyan Karthik - LinkedIn: https://www.linkedin.com/in/ishwar-karthik-3b62a9253/
